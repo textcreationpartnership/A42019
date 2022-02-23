@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarm from the holy mountain of the Lord to the inhabitants of the earth, and the word of the Lord sounding out of Sion, let all the inhabitants tremble With a warning to the wicked, calling them to repentance. As also two visions shewn and revealed by the Lord unto his servant Richard Greenway, one shewing how the head of the wicked one shall suddenly be dashed, the other how the spirit and power of darkness is caught in its own snare. And somthing that was sent to Richard Brown in particular, who is commander of the train-bands of London.</title>
+            <author>Greenway, R. (Richard)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42019</idno>
+            <idno type="STC">Wing G1862</idno>
+            <idno type="STC">ESTC R215946</idno>
+            <idno type="EEBO-CITATION">99827703</idno>
+            <idno type="PROQUEST">99827703</idno>
+            <idno type="VID">32126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarm from the holy mountain of the Lord to the inhabitants of the earth, and the word of the Lord sounding out of Sion, let all the inhabitants tremble With a warning to the wicked, calling them to repentance. As also two visions shewn and revealed by the Lord unto his servant Richard Greenway, one shewing how the head of the wicked one shall suddenly be dashed, the other how the spirit and power of darkness is caught in its own snare. And somthing that was sent to Richard Brown in particular, who is commander of the train-bands of London.</title>
+                  <author>Greenway, R. (Richard)</author>
+                  <author>Eccles, Solomon, 1618-1683.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Concerns Greenway's imprisonment.</note>
+                  <note>Includes a letter dated and signed: From Newgate Goale the 23d. of the 4th. month. 1662. Solomon Eccles.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Greenway, R. --  (Richard) --  Early works to 1800.</term>
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32126:1" rendition="simple:additions"/>
+            <head>An ALARM FROM The Holy Mountain of the Lord to the Inhabitants of the EARTH, AND The word of the Lord ſounding out of <hi>Sion,</hi> let all the Inhabitants tremble. With a Warning to the wicked, calling them to Repentance.</head>
+            <head type="sub">As alſo two VISIONS ſhewn and Revealed by the Lord unto his Servant <hi>Richard Greenway,</hi> one ſhewing how the Head of the Wicked one ſhall ſuddenly be daſhed, the other how the ſpirit and power of darkneſs is caught in its own Snare. And ſomthing that was ſent to <hi>Richard Brown</hi> in particu<g ref="char:EOLhyphen"/>lar, who is Commander of the <hi>Train-bands</hi> of <hi>London.</hi>
+            </head>
+            <p>O <hi>Earth, Earth hear the word of the Lord,</hi> and incline an ear hereto; All you great <hi>high and exalted Mountains,</hi> you little Hills, and hard ſtony Rocks; and all you that lift up your ſelves againſt him that formed you, (even as if the Ax, or ſtaffe, ſhould ſet it ſelf againſt the hand that lifs it up.) And conſider this all you Inhabitants of the Earth, hear I ſay and dread and fear before the Lord of Hoſts, the mighty God, the Creator of Heaven and Earth, and all that is therein, for he will ſuddenly daſh the head of the wicked, with the ſtroak of his mighty terrible hand (even as when a Potters Veſ<g ref="char:EOLhyphen"/>ſels
+<pb n="2" facs="tcp:32126:2"/>
+are feircely ſtroken with an Iron rod) for unto him all the Nations of the Eath, are but as a very ſmall thing, in his mighty hand of power is the breath of all that liveth upon the face of the Earth, therefore all you tall Ceaders bend, and come down, and all you ſtirdy Oaks, ſtoop and be you bowed, (unto the Ax which is layd unto your root, which is the word of the Lord, the ſound thereof is gone out to the ends of the Earth) for the Lord of Hoſts the mighty Jehovah, will lay you level, for by his fire, and by his terrible ſword hee'l plead with all fleſh, and all you ſcraching Bryers, Intangling Brambles, and prickelly Thorns, who ſet your ſelves in battel againſt the Lord that Created you, fear I ſay and dread be<g ref="char:EOLhyphen"/>fore his <hi>moſt holy name</hi> leaſt you be conſumed by his Eternal Unquench<g ref="char:EOLhyphen"/>able fire, or his jealouſie is kindled, which burns as an Oven, and verily all the wicked (that are lifted up in Pride and Luſt, in which the Lord is for<g ref="char:EOLhyphen"/>gotten) will be turned into Hell, they are appointed as the fuel thereof; <hi>(except they repent)</hi> therefore all you ſtout hearted ones that think to ſtop the work of the Lord, if you continue ſtriving therein, you will be con<g ref="char:EOLhyphen"/>founded, <hi>the month of the Lord hath ſpoken it: And he hath commanded</hi> me to publiſh the ſame, and to tell you, in vaine do you all ſtrive; <hi>For thus ſaith the Lord,</hi> all you that ſet your ſeves againſt my work and appearance in my people, try if you can ſtop the Sun from going its courſe, or if you can ſtop my Thunder claps, or my Lightnings from breaking through the Clouds, or the Moon or Stars from giveing light unto the Night, or can you ſtop the tide of the Sea from flowing and ebbing, or the Raine from deſcending down upon the earth: If you can do any of theſe things, then, (and not till then) will you be able to ſtop that which I am bringing to paſs, or hinder that wich I have d<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed to do; which is to <hi>Eſtabliſh Righteouſneſs</hi> in the earth, and to ſet up the Throne of <hi>Truth</hi> above iniqui<g ref="char:EOLhyphen"/>ty deceit &amp; unrighteouſneſs, &amp; to advance <hi>Mercy, Iuſtice, true Iudgemnt,</hi> and <hi>Equity</hi> above Injuſtice, Cruelty and oppreſſion, it is already begun, And you think to ſtop me in my work, but your Imaginations are all in vain, and will turn to your own confuſion, except in time you ſtay your hands, and <hi>thereof Repent.</hi>
+            </p>
+            <p>
+               <hi>The Lord,</hi> who hideth his Counſels from the wiſe and prudent ones of the earth, and reveals them to Babes and Sucklings, ſuch as fear his name, and tremble at his <hi>Word,</hi> he hath ſpoken to me therein, and hath reveal<g ref="char:EOLhyphen"/>ed his ſecrets by his ſpirit.</p>
+            <p>
+               <hi>While I was kept a Priſoner</hi> in the <hi>Poultrey Counter (London,) for the word of God and teſtimony of Ieſus:</hi> Upon the <hi>17th.</hi> day of the <hi>3d.</hi> Month, towards break of day I ſaw a Viſion as I lay upon my bed, which I was
+<pb n="3" facs="tcp:32126:2"/>
+made to take great notice of, my thoughts I ſaw a Creature like unto a <hi>Cat,</hi> but much bigger then any of that kind, that ever I had ſeen, it was very fat and of a lightiſh collour, it was very nere me, yet ſome diſtance from me, and it ſtood juſt before me, with the hinder parts towards me, &amp; with the face it looked back upon me ſteadfaſtly, &amp; a on ſuddain the head was ſtruck flat, <hi>and ſquaſhed</hi> as if it had been ſtruck by a ſtrong and mighty hand with ſome great thing, the blood dropping, ſo that it was ſad to me to b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold, and though the head thereof was ſo ſquaſhed and bruiſed, yet the hinder part thereof ſtood up and moved to and fro, but lying down with the former part of the body, it put forth one of its four paws at me, but could not reach me, at which <hi>I</hi> rejoycing ſaid, <hi>It cannot touch my life,</hi> and ſo it was taken out of my ſight, but the remembrance thereof was ve<g ref="char:EOLhyphen"/>ry freſh in me, and the Lord commanded me to ſet it down in writing, and to note the time, and his word ſpake thus in me, this Viſion is for an appointed time.</p>
+            <p>Again about the midle of the <hi>4th.</hi> Month, while in that place, and for the cauſe aforeſaid I ſaw another Viſion, my thought I was ſtanding be<g ref="char:EOLhyphen"/>fore a very large flood gate, which ſtood in the ſide of a great ſtream, and my thoughts I was ſtanding on that ſide next to the ſtreame of water, with my back towards the openning part of the floodgate, and there were ſome other men with me, but it was not ſhewed me who they were, on<g ref="char:EOLhyphen"/>ly we were together in peace, they ſeemed to me to be fiſher-men, the waters ſeemed to me to be but low, and we ſtood upon the waters; and between the waters under our feet were ſpars of wood, like paling which lay ſome diſtance one from another and ſome little ſticks of wood in ſome places beſides, and underneath that which we ſtood upon, there ſeem'd to be much fiſh, and my thought one <hi>Ele</hi> very big and long came up to the top of the water, with a yallow wier ſnare (of many doubles well twiſted) &amp; faſtned about the midle thereof, and the ſnare of wier came up through the ſpars of wood, And I took hold of it (as I thought) with my hand, and I pulled it pretty hard, but the <hi>Ele</hi> was ſo big that I could not get it through the ſpars of wood, ſo I let it go with the ſnare faſtened about the middle, then I put down my hand into the Water, and took up a handful of other <hi>Eles,</hi> ſome bigger and ſome leſſer, and they twiſted and twined in my hand, and they were very hard to be held and my thought I cut them on the head, and then I could hold them very well, (this I was commanded to ſet down alſo.)</p>
+            <p>And when the Seſſions was come which was held at the <hi>Old Bayley</hi> on the <hi>26th.</hi> of the <hi>4th,</hi> Month, 1662. being the fifth day of the week, I was
+<pb n="4" facs="tcp:32126:3"/>
+brought before them, it being the firſt day of their ſitting, and not long af<g ref="char:EOLhyphen"/>ter the Court was come together; As I was brought before the Court they cryed take off his Hat, which was done, and <hi>T. A.</hi> that committed me to Priſon, pointed to the Officer that brought me, to put me among the Fellonious perſons, who were in their Irons, (to be <hi>numbred among tranſgreſſors,)</hi> and as I was put into that place they put my hat into my hand, and I put it upon my head again, without any contempt to any, but in the fear of the Lord: It was not long before <hi>R. B.</hi> being on the Bench, cryed be uncovered in the Court, but I did not ſo minde his words as to take off my hat thereat, then he reproved the Officers of the Goale, and I was haſtily brought forth of the place (where I was put,) before the face of the Court, and there my hat was taken from me, and the Goalor chid and railed at me, ſaying why will you not pull off your Hat, but we muſt be chid for you, then they put me again where I was before, (the Court having ſpoke nothing to me,) and as they were putting me in, <hi>R. B.</hi> ſaid <hi>put him in the Common Goale,</hi> and then he commanded my hat ſhould be given me again, (which ſeemed to me to be to try me, and in the fear of the Lord, &amp; in Conſcience I durſt do no other but put it on, &amp; I was made to look towards <hi>R. B. who ſhooke his head at me with a feirce look,</hi> and tur<g ref="char:EOLhyphen"/>ned himſelf to the next man to him on the Bench, and ſeemed to ſpeak ſomething in his ear, then his back part was toward me, and after a little time, ſome were going again to pull off my hat, and then he ſaid with a loud voice let it alone, and after that none was diſturbed with me or offended at my hat being on, (when <hi>R. B.</hi> had ſaid let it alone) though I kept it on before them ſeveral hours &amp; as I was ſtanding in the innocency waiting in the fear of the Lord, and looking when I might be called, what I had formerly ſeen, was brought freſh to my minde, and compared to the aforeſaid paſſage, I ſaid in my heart ſure there is ſomething in this, when the Court brake up for that day, it was ſo ordered that I was put into <hi>Newgate,</hi> with the reſt of my freinds notwithſtanding what <hi>R. B.</hi> had ſaid, as to the putting of me in the Common Goal, and I was called three times more before them in the time of the Seſſions; But had little or no Tryal as to the matter for which I was firſt committed, but inſtead there<g ref="char:EOLhyphen"/>of had the <hi>Oath tendred me as a Snare;</hi> and becauſe I was not willing to break <hi>Chriſts Command, who ſaith ſwear not at all:</hi> I was returned to <hi>New<g ref="char:EOLhyphen"/>gate</hi> Priſon there to remaine till I ſhould take the ſaid Oath, as is expres<g ref="char:EOLhyphen"/>ſed in the Goalors Bill or Calendar.</p>
+            <p>And as I was in that place (of <hi>Newgate</hi> aforeſaid) upon the <hi>17th.</hi> day of the <hi>5th.</hi> Month, 1662. <hi>The word of the Lord came unto me about the
+<pb n="5" facs="tcp:32126:3" rendition="simple:additions"/>
+midle time of the day, ſaying go lay thee down in private upon thy bed and wait quietly with thy minde turned in unto me, and hear what I will ſay unto thee:</hi> After I had laid down for ſome time, without the leaſt motion to ſleep, <hi>the fire of the powerful word of God Almighty</hi> kindled in me, and the <hi>Lord ſpake by his word of power thus in my heart,</hi> (by which he opened my underſtanding, and ſilenced all other thoughts) <hi>and ſaid;</hi> The Creature which thou ſaweſt, which was in the faſhion like unto a <hi>Cat which was very big fat and of a lightiſh colour with the head thereof, which was ſuddenly ſtruck, and quaſhed thou knoweſt not how, It was the figure of that ſpirit of wickedneſs, which is very big, and highly exalted againſt my truth, and peo<g ref="char:EOLhyphen"/>ple, which I will ſuddenly daſh as flat as thou ſaweſt the head thereof, which I ſmote with my own hand alone,</hi> then a pitty roſe in me towards <hi>Richard Brown</hi> and I ſaid ſurely it may be well for me to warne him by a Letter in writing, <hi>but the Lord ſaid nay his heart is hard and he is deſperately ſet againſt my way, he will do by it as he did by that which I cauſed to be ſent al<g ref="char:EOLhyphen"/>ready, do thou publiſh this which I have and ſhall ſhew thee, and then let that be publiſhed alſo, it may be a warning to ſome other, and he may take it, (af<g ref="char:EOLhyphen"/>ter he hath heard thereof,) by ſome other hand.</hi>
+            </p>
+            <p>
+               <hi>And the Lord ſaid the large Floodgate which thou ſaweſt, and ſtoodeſt be<g ref="char:EOLhyphen"/>fore, was the Court which thee and thy brethren were brought unto, which if thou compareſt was as thou haſt ſeen, the waters (which were but low) are people, that which moved in the Waters (was the ſpirit and power of darkneſs) that which you ſtood upon, was that which was between the Court and you, the great</hi> Eele <hi>that appeared above the waters was the cheifeſt that was there, the wier Snare which came up through thoſe ſpars which was faſtned about the middle thereof of which thou hadeſt hold and and did pul with thy hand was the promiſes which have been made by the King which were ſent and deliver<g ref="char:EOLhyphen"/>ed, unto the Iudge his hand, and as thou ſaweſt the wier ſnare was faſtned a<g ref="char:EOLhyphen"/>bout the great</hi> Eles <hi>middle, ſo are thoſe promiſes faſtned, thou hadſt hold ther<g ref="char:EOLhyphen"/>of with thy hand, being one imployed in the ſending of them, and as a Snare or Cord of wier double is hard to be broken (being well twiſted) ſo ſhall they be hard to be broken, they which ſtood upon the water with thee before the Flood<g ref="char:EOLhyphen"/>gate, were thy brethren, the other</hi> Eeles <hi>which thou tookeſt up with thy hand, were as thoſe thou waſt before the ſecond time, which were leſſer in power then ſome the day before, and as thou couldeſt hold thoſe</hi> Eeles <hi>when they were cut on the head, ſo were they cut, and ſtopt by my power, that is manifeſt, ſo that they could do nothing farther againſt thee;</hi> with many more not conve<g ref="char:EOLhyphen"/>nient here to inſert.</p>
+            <p>
+               <hi>Theſe ſayings are faithful and true,</hi> Let him that hath an ear hear what
+<pb n="6" facs="tcp:32126:4"/>
+the ſpirit ſaith, and ſet all whom this may concerne, conſider of their ways, and repent of the evil of their doings, while they have time, leaſt this with the many other warnings, which they have had <hi>from the Lord,</hi> be brought upon them one day, to aggrevate their condemnation when to repent it will be to late.</p>
+            <closer>
+               <signed>G, R.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>
+               <bibl>Pro. 29. and 19.</bibl> 
+               <hi>Where there is no Viſion the people periſh; And thus ſaith the Lord</hi> 
+               <bibl>Joel 2. and 28.</bibl> 
+               <hi>I will pour out my Spirit upon all Fleſh, and your Sons and your Daughters ſhall Prophe<g ref="char:EOLhyphen"/>ſy, and your Old men ſhall dream dreams, and your Young men ſhall ſee Viſions.</hi>
+            </head>
+            <lg>
+               <l>AWake Awak Oh Arme of God thou that haſt cut the Whore,</l>
+               <l>And wound the Dragon and the Beaſt that they may riſe no more;</l>
+               <l>Thy Lambs and Babes do praiſe thy name and call thee ever bleſt,</l>
+               <l>For when the Wolves would them devour'd thou waſt their fould of reſt,</l>
+               <l>When as the roaring Beaſts of the field did ſeek them to devour,</l>
+               <l>Thou didſt appear for them, and was their ſtrength and Tower.</l>
+            </lg>
+            <lg>
+               <l>The wicked were ſwelling like the Sea, and foaming as the flood,</l>
+               <l>But thou haſt ſtopt them by thy Arme, and rebuk'd them by thy word,</l>
+               <l>Eternal is thy truth O God, bleſſed are all that do the ſame,</l>
+               <l>They have a ſtrength to flye unto, they know thy holy Name,</l>
+               <l>Which in the earthly darkneſs yet lyes hid, and long time ſo hath been,</l>
+               <l>But in thy light and day that's bright, it is and hath been ſeen.</l>
+            </lg>
+            <lg>
+               <l>To the confounding of all Lyes, and ſuch as Truth oppoſe,</l>
+               <l>For he is riſen that will plead it's cauſe againſt his ſoes,</l>
+               <l>Since it is ſo let all know Truth is ſtrongeſt of all,</l>
+               <l>And when the lofty have done all they can, like Ceders they muſt fall,</l>
+               <l>Unto the Earth as void of breath, any longer to contend</l>
+               <l>Againſt the ſtrong and powerful Rock, that never will have end.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That's Gods word</hi> which is a Sword the Wicked for to ſlay,</l>
+               <l>It will be well for all that in it dwell, in this his mighty day,</l>
+               <l>
+                  <pb n="7" facs="tcp:32126:4"/>
+They that thereof poſſeſſors are will feel a ſtrength and ſtay,</l>
+               <l>When as the wicked ſhall be toſt like Chaffe thats driven away,</l>
+               <l>Which intoth' fire at laſt will come to be conſum'd with heat,</l>
+               <l>Therefore let all in time Repent before it be to late.</l>
+            </lg>
+            <closer>
+               <signed>G. R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Copy of this following Letter in obedience to the Lord was written, and delivered into the hand of</hi> Richard Brown, <hi>(who is Commander over the</hi> Trained-B<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, <hi>and Souldiers of the City of London;) but before he either read it or lookt into it he put it into the fire with his own hand, by which it was burnt,</hi> Mary Cooper <hi>the barer thereof being preſent, the Lord who moved to write and ſend it unto him, hath com<g ref="char:EOLhyphen"/>manded to Print it, that yet he and others may come to ſee what that ſpirit that rules in him would ſtif<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le and burn.</hi>
+            </head>
+            <p>HEar the word of the Lord why do the heathen rage, and the people imagine a vaine thing, the Kings of the Earth do ſet themſelves, and the Rulers take Counſel, againſt the Lord and his Annointed, (thus ſaith the Lord) who art thou, that ſetteſt thy ſelf againſt me, how long ſhall I ſuffer thee, the crys of the oppreſſed are entred into mine ear, haſt thou an intent to proceed againſt me and my people to provoke me to anger againſt thee, did I not let thee alone when thou wert cheif Magiſtrate (ſo called) laſt year when thou ſhamefully abuſed my people, having done thee no wrong by word nor deed, yet many hundred men and women didſt thou caſt into Priſon while ſome of them fell ſick and dyed, ſhall I not require their blood at thy hands: And now thou having not repented, doſt ſtill proceed to root out my people and to vex and torment them who have none to take their parts but me alone, my word ſtands written to thee do violence to no man, and muſt thou needs ſet thy ſelf againſt them, who are my Inheritance, art thou not afraid, that I ſhall meet thee and diſmount thee, verily I ſay unto thee, were it not that ſome of my people have ſought my face in thy behalf, that I might ſpare thee, I had cut thee off ere this, and if they once lift up their voice againſt thee, I will ſoon cut off thy remembrance from the face of the earth, doſt thou ſtill proſeed to impriſon, (well) <hi>Vengeance is mine I will repay it</hi> (ſaith the Lord) ye though <hi>Noah,
+<pb n="8" facs="tcp:32126:5"/>
+Daniel,</hi> and <hi>Job,</hi> were here to pray for thee I would bid them let me alone, that I might take Vengeance of thee, thou muſt ſuddenly Receive of the fruit of thy doings, my ſpirit ſhall not always ſtrive with thee: can I not take thee a<g ref="char:EOLhyphen"/>way in a moment, thy meaſure is neare full, thou thinkeſt thoſe people have none to take their parts, and indeed they have not in the Earth, but I the Lord have undertaken their cauſe; And weeping, and howling, and naſhing of teeth, ſhall be the portion of all their Enemies for I will overturn, overturn overturn all powers and people, till he comes to Reigne whoſe right it is to Reigne, I will contend with all fleſh, till they acknowledge my righteous Iudgments, now if thou ſhalt be aſhamed of what thou haſt done, and ſhall repent before me the Lord God who hath raiſed this people, it ſhall be a happy day for thee for thou mayeſt aſuredly know that this is my people becauſe they pray to me in thy behalf and wiſh as well to thee as to their own ſouls.</p>
+            <p>Oh man I do adviſe thee for thy own good look to thy pretious time before thou go to thy long home, from hence no more to be ſeen; the God of Heaven grant thee repentance as ſaith my ſoul (O Lord ſave this man) from the fatal blow; which is the deſire of him that hath a love to thy ſoul.</p>
+            <closer>
+               <dateline>
+                  <hi>From</hi> Newgate <hi>Goale</hi> 
+                  <date>
+                     <hi>the</hi> 23d. <hi>of the</hi> 4th. <hi>Month. 1662.</hi>
+                  </date>
+               </dateline>
+               <signed>Solomon Eccles.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>By reaſon of our cruel cloſe impriſoment, where we are thronged in naſty holes through thy means, divers of our friends have fallen ſick, and one of them is departed this life, which thou mayeſt feell the bur<g ref="char:EOLhyphen"/>den and weight off, when God accounts the death of his Martyres upon his perſecutors.</head>
+            <lg>
+               <l>O God that art poor <hi>Iacobs</hi> lot;</l>
+               <l>And <hi>ISRAELS</hi> Portion,</l>
+               <l>Thy love is never to be forgot</l>
+               <l>Upon thy Mount <hi>ZION,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh that all knew how good thou art</l>
+               <l>That do thy ways oppoſe,</l>
+               <l>So that thy love might turn their hearts</l>
+               <l>That yet are but thy foes.</l>
+            </lg>
+            <lg>
+               <l>For they oppoſe thy people poor</l>
+               <l>Whom thou haſt call'd and bleſt,</l>
+               <l>I would they might do ſo no more</l>
+               <l>But with us may have a Reſt.</l>
+            </lg>
+            <lg>
+               <l>In that which yet with thee remains</l>
+               <l>For them that will thee fear,</l>
+               <l>Or elſe they'l have nought for their pains</l>
+               <l>But wrath, ſore plagues, and fire.</l>
+            </lg>
+            <closer>
+               <signed>Richard Greenway.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London <hi>Printed for the Author,</hi> 1662.</p>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:32126:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
